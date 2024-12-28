@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "69959950059",
+    "project_id": "egitim-8d0a0",
+    "storage_bucket": "egitim-8d0a0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69959950059:android:bce7b8146b0b41fc15e8ae",
+        "android_client_info": {
+          "package_name": "com.example.contact_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7jZnnG8TOpDHbHIKF44JjMUd4OS785TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
